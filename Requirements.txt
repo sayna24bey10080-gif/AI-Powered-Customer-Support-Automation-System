@@ -1,12 +1,12 @@
-# Core AI / LLM
+=Core AI / LLM
 groq>=0.9.0
 langgraph>=0.1.0
 langchain-core>=0.2.0
 
-# RAG & Embeddings
+-RAG & Embeddings
 sentence-transformers>=3.0.0
 faiss-cpu>=1.8.0
 numpy>=1.26.0
 
-# UI
+-UI
 streamlit>=1.35.0
