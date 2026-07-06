@@ -1,0 +1,119 @@
+ABC Technologies – Technical Support Manual (2025)
+
+INSTALLATION GUIDE
+==================
+
+System Requirements:
+- Windows 10/11, macOS 12+, or Ubuntu 20.04+
+- Minimum 4 GB RAM (8 GB recommended)
+- 2 GB free disk space
+- Internet connection required
+
+Installation Steps (Windows):
+1. Download the installer from https://www.abctech.com/download
+2. Run ABCTech_Setup.exe as Administrator.
+3. Accept the license agreement and choose installation directory.
+4. Click Install. Installation takes 3–5 minutes.
+5. Launch the application from the Start Menu or Desktop shortcut.
+
+Installation Steps (macOS):
+1. Download ABCTech.dmg from https://www.abctech.com/download
+2. Open the .dmg file and drag ABCTech to Applications.
+3. On first launch, go to System Settings → Privacy & Security and click "Open Anyway" if prompted.
+4. Sign in with your account credentials.
+
+Installation Steps (Linux/Ubuntu):
+1. Download ABCTech.deb: wget https://www.abctech.com/download/ABCTech.deb
+2. Install: sudo dpkg -i ABCTech.deb && sudo apt-get install -f
+3. Launch: abctech from terminal or application launcher.
+
+LOGIN PROBLEMS
+==============
+
+Problem: Cannot log in / "Invalid credentials" error
+Solutions:
+1. Verify you are using the correct email address (check for typos).
+2. Reset your password: Go to login page → "Forgot Password" → enter email → check inbox for reset link (check spam/junk folder).
+3. Ensure Caps Lock is off.
+4. Clear browser cache and cookies, then retry.
+5. Try a different browser or incognito/private window.
+6. If using SSO: contact your IT administrator to verify your SSO configuration.
+7. If account locked after multiple failed attempts: wait 15 minutes or contact support@abctech.com for manual unlock.
+
+Problem: Two-Factor Authentication (2FA) issues
+- If you lost your 2FA device: use a backup code (provided during 2FA setup) or contact support to temporarily disable 2FA.
+- 2FA codes expire in 30 seconds; ensure your device clock is synchronized.
+
+APPLICATION CRASHES
+===================
+
+Problem: App crashes on startup
+Steps:
+1. Restart your computer and try again.
+2. Check that your system meets the minimum requirements.
+3. Update to the latest version: Help → Check for Updates.
+4. Disable antivirus/firewall temporarily to check for conflicts; whitelist ABCTech if needed.
+5. Reinstall: Uninstall via Control Panel (Windows) or drag to Trash (macOS), then reinstall fresh from the website.
+6. Check crash logs:
+   - Windows: C:\Users\[Username]\AppData\Roaming\ABCTech\logs\
+   - macOS: ~/Library/Logs/ABCTech/
+   - Linux: ~/.abctech/logs/
+7. If crash persists, send logs to support@abctech.com with subject "Crash Report – [your account email]".
+
+Problem: App crashes during use / freezes
+1. Save your work frequently (auto-save is on by default every 5 minutes).
+2. Reduce the number of open tabs/windows within the app.
+3. Check available RAM; close other heavy applications.
+4. Disable browser extensions if using the web version.
+5. Check your internet connection stability for cloud sync features.
+
+PERFORMANCE ISSUES
+==================
+
+Problem: App running slowly
+1. Clear app cache: Settings → Advanced → Clear Cache.
+2. Ensure you have at least 500 MB free disk space.
+3. Update graphics drivers (Windows).
+4. Reduce data load: archive old projects or files no longer in active use.
+
+Problem: Slow file uploads/downloads
+1. Check your internet speed at https://speedtest.net (minimum 5 Mbps recommended for smooth operation).
+2. Try uploads during off-peak hours.
+3. Large files (>500 MB): use the desktop app instead of browser for chunked upload support.
+
+SYNC AND DATA ISSUES
+====================
+
+Problem: Files not syncing across devices
+1. Check that you are signed into the same account on all devices.
+2. Ensure the sync feature is enabled: Settings → Sync → Enable Sync.
+3. Check that the folder is not excluded from sync (Settings → Sync → Excluded Folders).
+4. Trigger a manual sync: Settings → Sync → Sync Now.
+5. If conflict errors appear: go to File → Conflict Resolution to choose which version to keep.
+
+Problem: Data appears missing
+1. Check the Recycle Bin / Trash within the app (Archive section).
+2. Restored deleted items are retained for 30 days (Pro/Enterprise: 90 days).
+3. Contact support immediately if data loss is suspected — do not create new files in the same location as recovery may be possible.
+
+API AND INTEGRATIONS
+====================
+
+API Access:
+- API documentation: https://docs.abctech.com/api
+- Generate an API key: Account Settings → Developer → API Keys → Generate New Key.
+- Rate limits: Basic: 100 requests/hour; Pro: 1000 requests/hour; Enterprise: custom.
+- Supported auth: Bearer Token (OAuth 2.0) and API Key.
+
+Common Integration Issues:
+- Webhook not firing: verify the endpoint URL is publicly accessible and returns HTTP 200.
+- OAuth redirect error: ensure the redirect URI in your app settings matches exactly (including trailing slash).
+- Slack integration: requires workspace admin permissions to install.
+
+CONTACTING TECHNICAL SUPPORT
+=============================
+- Email: support@abctech.com
+- Live Chat: Available in-app (Pro and Enterprise plans)
+- Phone: +1-800-ABC-TECH (Enterprise only, 24/7)
+- Response times: Basic: 48 hours | Pro: 4 hours | Enterprise: 1 hour
+- When contacting support, provide: account email, operating system, app version (Help → About), and a description of the issue with steps to reproduce.

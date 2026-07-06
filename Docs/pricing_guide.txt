@@ -1,0 +1,66 @@
+ABC Technologies – Pricing Guide (2025)
+
+SUBSCRIPTION PLANS
+==================
+
+Basic Plan – $10/month
+- Up to 5 users
+- 10 GB cloud storage
+- Email support (response within 48 hours)
+- Access to core features: task management, reporting dashboard, file sharing
+- Mobile app access (iOS and Android)
+- No credit card required for 14-day free trial
+
+Pro Plan – $25/month
+- Up to 25 users
+- 100 GB cloud storage
+- Priority email + live chat support (response within 4 hours)
+- All Basic features plus: advanced analytics, API access, custom integrations, automated workflows
+- Single Sign-On (SSO) support
+- Role-based access control
+- Audit logs (90-day retention)
+- 30-day free trial available
+
+Enterprise Plan – Custom Pricing (Contact Sales)
+- Unlimited users
+- Unlimited cloud storage
+- 24/7 dedicated account manager and phone support
+- All Pro features plus: custom SLA, on-premise deployment option, white-label branding
+- Advanced security: SOC2 Type II compliance, HIPAA compliance, custom data retention policies
+- Priority onboarding and training sessions
+- Volume discounts available for annual billing
+
+BILLING OPTIONS
+===============
+- Monthly billing: pay each month, cancel anytime
+- Annual billing: save 20% compared to monthly pricing
+  - Basic Annual: $96/year (save $24)
+  - Pro Annual: $240/year (save $60)
+  - Enterprise: negotiated annually
+
+ADD-ONS (available for Basic and Pro plans)
+===========================================
+- Extra Storage: $5/month per additional 50 GB
+- Additional Users (Basic): $2/user/month beyond the 5-user limit
+- Advanced Security Package: $10/month (includes SSO, audit logs for Basic)
+- Dedicated Onboarding Session: $199 one-time fee
+
+PAYMENT METHODS
+===============
+- Credit/Debit Card (Visa, Mastercard, Amex)
+- PayPal
+- Bank Transfer (Enterprise only)
+- Purchase Orders accepted for Enterprise annual contracts
+
+UPGRADES AND DOWNGRADES
+========================
+- You can upgrade your plan at any time; charges are prorated immediately.
+- Downgrades take effect at the end of the current billing cycle.
+- Switching from monthly to annual billing: discount applies from next cycle.
+
+TAXES
+=====
+- Prices shown are exclusive of applicable taxes (GST, VAT, etc.)
+- Tax is calculated based on billing address at checkout.
+
+For custom pricing or volume discounts, contact our Sales team at sales@abctech.com or call +1-800-ABC-TECH.

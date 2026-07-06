@@ -1,0 +1,61 @@
+ABC Technologies – Company Policies and Refund Guidelines (2025)
+
+REFUND POLICY
+=============
+
+Eligibility:
+- Refund requests must be submitted within 30 days of the charge date.
+- Refunds are available if: (a) a billing error occurred, (b) the service was unavailable for more than 72 consecutive hours due to our fault, or (c) the customer cancels within 7 days of initial sign-up (no-questions-asked).
+- After 30 days, refunds are granted at management discretion only.
+
+Process:
+- Submit a refund request via the billing portal or email billing@abctech.com.
+- Include: account email, invoice number, reason for request.
+- Refund requests are reviewed within 3–5 business days.
+- Approved refunds are processed to the original payment method within 7–10 business days.
+- Refund requests exceeding $500 require supervisor approval before processing.
+
+Non-Refundable Items:
+- One-time setup fees and onboarding session fees are non-refundable.
+- Add-on purchases (storage, extra users) are non-refundable once the billing period has started.
+- Annual plans cancelled after 30 days receive a prorated credit for unused months (not a cash refund), unless a billing error occurred.
+
+SUBSCRIPTION CANCELLATION POLICY
+==================================
+- Customers may cancel at any time through Account Settings → Subscription → Cancel Plan.
+- Upon cancellation: access continues until end of the current paid period. No further charges are made.
+- Data retention after cancellation: your data is retained for 60 days post-cancellation. After that, it is permanently deleted.
+- To cancel and immediately delete data, contact support@abctech.com.
+- Reactivation: cancelled accounts can be reactivated within 60 days with all data intact.
+- Subscription cancellation requests flagged as high-value (Enterprise or accounts >$1000 in lifetime value) are routed to a customer success manager for a retention conversation before finalizing.
+
+ACCOUNT CLOSURE POLICY
+=======================
+- Account closure is permanent and different from cancellation. All data is immediately queued for deletion.
+- To close an account: submit a written request to support@abctech.com from the registered email address.
+- Closure requests are processed within 2 business days.
+- Account closure requires supervisor approval if there are outstanding invoices or active disputes.
+- GDPR/CCPA data deletion requests are handled separately; submit to privacy@abctech.com.
+
+COMPENSATION POLICY
+===================
+- Service credits are issued automatically when uptime falls below our SLA (99.9% monthly uptime guarantee).
+- Credit calculation: 10x the hourly cost for each hour of downtime beyond the SLA threshold.
+- Credits appear on the next invoice and cannot be converted to cash.
+- Compensation requests for incidents not covered by the automatic credit system require escalation to the support manager.
+
+DISPUTE RESOLUTION
+==================
+- Billing disputes must be raised within 60 days of the charge.
+- First point of contact: billing@abctech.com.
+- Unresolved disputes escalate to: support-manager@abctech.com.
+- ABC Technologies aims to resolve all disputes within 10 business days.
+
+PRIVACY AND DATA POLICY
+========================
+- We do not sell customer data to third parties.
+- Data is encrypted at rest (AES-256) and in transit (TLS 1.3).
+- Employees access customer data only for support purposes and with the customer's consent.
+- Full privacy policy: https://www.abctech.com/privacy
+
+For policy questions, contact: policy@abctech.com

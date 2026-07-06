@@ -1,0 +1,85 @@
+ABC Technologies – Frequently Asked Questions (2025)
+
+ACCOUNT & PROFILE
+=================
+
+Q: How do I create an account?
+A: Visit https://www.abctech.com/signup. Enter your name, work email, and create a password. You'll receive a verification email — click the link to activate your account. Free trials start immediately after verification.
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your registered email address and we'll send a reset link within a few minutes. The link expires after 1 hour. If you don't receive it, check your spam folder or contact support@abctech.com.
+
+Q: Can I change my account email address?
+A: Yes. Go to Account Settings → Profile → Email Address → Update Email. A verification email will be sent to the new address. Your old email remains active until the new one is verified.
+
+Q: How do I add or remove users from my team?
+A: Go to Account Settings → Team Management. Click "Invite User" to add team members (they'll receive an email invitation). To remove a user, click the three-dot menu next to their name → Remove from Team. Removed users lose access immediately.
+
+Q: What happens if I forget my 2FA device?
+A: Use one of the backup codes provided when you first enabled 2FA. If you've lost those too, contact support@abctech.com with your account email and a photo of your government ID for identity verification. We'll disable 2FA after verification (24-48 hours).
+
+BILLING & PAYMENTS
+==================
+
+Q: When am I charged?
+A: Monthly plans are charged on the same date each month (your subscription start date). Annual plans are charged once per year. You'll receive an invoice by email before each charge.
+
+Q: How do I update my payment method?
+A: Go to Account Settings → Billing → Payment Methods → Update. Changes take effect on the next billing cycle. You won't be charged again for the current cycle.
+
+Q: Can I get a receipt or invoice?
+A: Yes. All invoices are available in Account Settings → Billing → Invoice History. You can download PDF copies for any invoice. For custom invoicing (purchase orders, specific billing details), contact billing@abctech.com.
+
+Q: What happens if my payment fails?
+A: We'll retry your payment 3 times over 7 days. You'll receive email notifications for each attempt. If all retries fail, your account is suspended (read-only mode). Update your payment method to reactivate immediately — your data is preserved for 30 days.
+
+Q: Do you offer discounts for nonprofits or educational institutions?
+A: Yes, we offer a 30% discount for registered nonprofits and educational institutions. Contact sales@abctech.com with your nonprofit registration number or .edu email domain for verification.
+
+FEATURES & USAGE
+================
+
+Q: How much storage do I get?
+A: Basic: 10 GB | Pro: 100 GB | Enterprise: unlimited. You can purchase extra storage add-ons at $5/month per 50 GB (available for Basic and Pro plans). Current usage is visible in Account Settings → Storage.
+
+Q: Can I use ABCTech offline?
+A: The desktop app has limited offline functionality — you can view and edit locally cached files. Changes sync automatically when you reconnect. The web version requires an internet connection. Full offline mode is on our roadmap for Q3 2025.
+
+Q: How do I export my data?
+A: Go to Account Settings → Data & Privacy → Export My Data. You'll receive a download link by email within 24 hours (for large accounts, up to 48 hours). Data is exported in standard formats (CSV, JSON, PDF).
+
+Q: Is there a mobile app?
+A: Yes, ABCTech is available for iOS (iOS 15+) and Android (Android 10+). Search "ABCTech" in the App Store or Google Play. All plans include mobile access. The mobile app supports core features; advanced analytics and API access are desktop/web only.
+
+Q: How many devices can I use simultaneously?
+A: You can be signed in on up to 5 devices at the same time across all plans. Each active session counts as one device. To manage devices: Account Settings → Security → Active Sessions.
+
+SECURITY & PRIVACY
+==================
+
+Q: How is my data protected?
+A: Your data is encrypted in transit using TLS 1.3 and at rest using AES-256 encryption. We conduct annual third-party security audits. Our infrastructure is hosted on AWS with SOC2 Type II certification. We do not sell or share your data with third parties.
+
+Q: Where is my data stored?
+A: Data is stored in AWS data centers in the US (us-east-1 and us-west-2) by default. Enterprise customers can request EU data residency (Frankfurt, eu-central-1) for GDPR compliance. Specify your preference during onboarding or contact support to migrate.
+
+Q: How do I enable Two-Factor Authentication (2FA)?
+A: Go to Account Settings → Security → Two-Factor Authentication → Enable. We support authenticator apps (Google Authenticator, Authy) and SMS codes. We recommend an authenticator app for better security.
+
+Q: Can I delete my account and all my data?
+A: Yes. Go to Account Settings → Account → Delete Account, or email support@abctech.com. Data deletion is permanent and irreversible. We retain anonymized usage statistics per our privacy policy. GDPR/CCPA deletion requests are processed within 30 days.
+
+GENERAL
+=======
+
+Q: How do I contact support?
+A: Email: support@abctech.com | Live Chat: in-app (Pro/Enterprise) | Phone: +1-800-ABC-TECH (Enterprise, 24/7). Response times: Basic 48 hours | Pro 4 hours | Enterprise 1 hour.
+
+Q: Do you have a status page for service incidents?
+A: Yes. Check https://status.abctech.com for real-time service status and incident history. Subscribe to status updates by email or SMS on that page.
+
+Q: Can I transfer my account to another email or person?
+A: Account transfers between individuals require written approval from both parties. Contact support@abctech.com. For business plan transfers (e.g., company acquisition), contact your account manager.
+
+Q: Do you have an affiliate or referral program?
+A: Yes. Refer a friend using your unique referral link (Account Settings → Referrals) and earn a $25 credit for each new paying customer. There's no limit to how many referrals you can make.
